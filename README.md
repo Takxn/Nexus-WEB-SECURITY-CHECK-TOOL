@@ -51,7 +51,7 @@ Nexus Web Security Check Tool ist eine fortschrittliche Desktop-Anwendung zur um
 - **Rust** (für Tauri-Backend)
 - **Git**
 
-### Installation
+### Installation X
 
 1. **Repository klonen**
    ```bash
@@ -74,7 +74,7 @@ Nexus Web Security Check Tool ist eine fortschrittliche Desktop-Anwendung zur um
    npm run tauri dev
    ```
 
-### Build für Production
+### Build für Production X
 
 ```bash
 # Web Version
